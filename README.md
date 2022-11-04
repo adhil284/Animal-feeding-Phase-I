@@ -1,5 +1,3 @@
-### EX NO : 04
-### DATE  : 05.05.2022
 # <p align="center">Animal feeding Phase-I<p/>
 ## Aim: 
 To develop a animal feeding game-Phase-1 using unity.
